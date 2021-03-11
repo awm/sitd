@@ -1,4 +1,8 @@
-"""sitd URL Configuration
+"""
+sitd URL Configuration
+
+SPDX-License-Identifier: MPL-2.0
+Copyright (c) 2021 Andrew MacIsaac
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/3.1/topics/http/urls/

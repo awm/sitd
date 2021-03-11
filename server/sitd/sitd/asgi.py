@@ -1,6 +1,9 @@
 """
 ASGI config for sitd project.
 
+SPDX-License-Identifier: MPL-2.0
+Copyright (c) 2021 Andrew MacIsaac
+
 It exposes the ASGI callable as a module-level variable named ``application``.
 
 For more information on this file, see
